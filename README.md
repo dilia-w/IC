@@ -1,3 +1,4 @@
 # Iniciação Científica
-Linha de pesquisa: Controle e otimização topológica de estruturas Inteligentes.
+Linha de pesquisa: Controle e otimização topológica de estruturas Inteligentes. 
+
 Objetivo geral: O objetivo da presente pesquisa é desenvolver uma metodologia geral integradora que reúna técnicas matemáticas e computacionais para a obtenção de estruturas otimizadas, do ponto de vista topológico, do controle do seu funcionamento e na eficiência em conversão energética. Possivelmente estas técnicas poderão ser utilizadas na modelagem de sistemas que requeiram estruturas otimizadas (tanto pela topologia como pelo controle), como por exemplo, na área da robótica, onde cada vez mais se buscam estruturas mais leves e ágeis e que funcionem com menor consumo de energia. Assim podem ser potencialmente mais baratos. Além disto, as técnicas desenvolvidas neste projeto poderão ser utilizadas na modelagem de processos de produção de energia limpa e renovável. 
